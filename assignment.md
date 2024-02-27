@@ -56,3 +56,5 @@ Inside pgAdmin, you can generate the ERD for the database.
 Download the image and save it as **schema.png**. Add this file to your repo for submission.
 
 Note: If you have created any new tables, be sure to load them into the database before printing the ERD!
+
+## This is my answer blah blah 
